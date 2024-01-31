@@ -1,7 +1,7 @@
 {
   "name": "user-process-assignment",
   "version": "1.0.0",
-  "description": "An assigment for skygoaltech company",
+  "description": "User authentication API",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

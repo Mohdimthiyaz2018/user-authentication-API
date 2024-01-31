@@ -8,8 +8,8 @@ const products = require('./Routes/productRoutes');
 app.use(express.json());
 app.use(cookies());
 
-app.use("/skygoaltech/", users);
-app.use("/skygoaltech/", products);
+app.use("/bithack/", users);
+app.use("/bithack/", products);
 app.use(error);
 
 module.exports = app;
